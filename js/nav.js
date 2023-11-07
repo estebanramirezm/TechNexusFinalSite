@@ -3,7 +3,7 @@ const createNav = () => {
 
     nav.innerHTML = `
         <div class="nav">
-            <a href="/html/home.html">
+            <a href="/home.html">
             <img src="/media/logo.png" class="brand-logo" alt="Tech Nexus">
             </a>      
             <div class="nav-items">
