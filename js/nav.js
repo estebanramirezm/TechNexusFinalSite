@@ -6,7 +6,7 @@ const createNav = () => {
             <a href="/home.html">
             <img src="/media/logo.png" class="brand-logo" alt="Tech Nexus">
             </a>      
-            <div class="nav-items" inert> <--! Not implemented yet -->
+            <div class="nav-items" inert> 
                 <div class="search">
                     <input type="text" class="search-box" placeholder="search brand, product">
                     <button class="search-btn">search</button>
@@ -24,6 +24,8 @@ const createNav = () => {
         </ul>
     `;
 }
+
+// Note: Nav-items is not implemented yet, so it will be unselectable
 
 createNav();
 
