@@ -6,14 +6,14 @@ const createNav = () => {
             <a href="/home.html">
             <img src="/media/logo.png" class="brand-logo" alt="Tech Nexus">
             </a>      
-            <div class="nav-items" inert> 
+            <!-- <div class="nav-items" inert> 
                 <div class="search">
                     <input type="text" class="search-box" placeholder="search brand, product">
                     <button class="search-btn">search</button>
-                </div>
+                </div> 
                 <a> <img src="/img/user.png" id="user-img" alt=""> </a>
                 <a> <img src="/img/cart.png" alt=""> </a>
-            </div>
+            </div> -->
         </div>
         <ul class="links-container">
             <li class="link-item"><a href="/home.html" class="link">Home</a></li>
